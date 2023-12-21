@@ -1,6 +1,4 @@
-# Regression project
-
-This repository contains a project on health insurance regression.
+# This folder contains a Telecommunication Churn classification project..
 
 Here you can find:
 - Jupyter notebook with the code.
