@@ -1,4 +1,4 @@
-# This folder contains a Telecommunication Churn classification project..
+# Telecommunication Churn Classification project
 
 Here you can find:
 - Jupyter notebook with the code.
